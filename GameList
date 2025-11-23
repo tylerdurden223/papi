@@ -1,0 +1,15 @@
+getgenv().Games = {
+  [110333320616502] = "https://raw.githubusercontent.com/hassanxzayn-lua/NEOXHUBMAIN/refs/heads/main/Grace", -- Grace
+  [7211666966] = "https://raw.githubusercontent.com/hassanxzayn-lua/towerofjumpscript/main/main", -- TOJ
+  [70876832253163] = "https://raw.githubusercontent.com/hassanxzayn-lua/NEOXHUBMAIN/refs/heads/main/deadrails", -- Dead Rails / Lobby
+  [98018823628597] = "https://raw.githubusercontent.com/hassanxzayn-lua/NEOXHUBMAIN/refs/heads/main/deadrails", -- Dead Rails / Lobby
+  [126884695634066] = "https://raw.githubusercontent.com/hassanxzayn-lua/NEOXHUBMAIN/refs/heads/main/growagarden", -- Grow A Garden
+  [18687417158] = "https://raw.githubusercontent.com/hassanxzayn-lua/NEOXHUBMAIN/refs/heads/main/Forsaken", -- Forsaken
+  [109983668079237] = "https://raw.githubusercontent.com/hassanxzayn-lua/NEOXHUBMAIN/refs/heads/main/StealABrainrot", -- SAB
+  [96342491571673] = "https://raw.githubusercontent.com/hassanxzayn-lua/NEOXHUBMAIN/refs/heads/main/StealABrainrot", -- SAB
+  [126509999114328] = "https://raw.githubusercontent.com/hassanxzayn-lua/NEOXHUBMAIN/refs/heads/main/99NIFT", -- 99NITF
+  [17574618959] = "https://raw.githubusercontent.com/hassanxzayn-lua/neoxfisch/refs/heads/main/test", -- Testing Baseplate
+  [127742093697776] = "https://raw.githubusercontent.com/hassanxzayn-lua/NEOXHUBMAIN/refs/heads/main/PlantsVsBrainrots", -- PVB
+  [121864768012064] = "https://raw.githubusercontent.com/hassanxzayn-lua/NEOXHUBMAIN/refs/heads/main/fishit", -- Fish It
+  [9872472334] = "https://raw.githubusercontent.com/hassanxzayn-lua/NEOXHUBMAIN/refs/heads/main/Evade", -- Evade
+}
