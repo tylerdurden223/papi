@@ -13,4 +13,5 @@ getgenv().Games = {
   [9872472334] = "https://raw.githubusercontent.com/tylerdurden223/papi/main/Evade", -- Evade
   [76558904092080] = "https://raw.githubusercontent.com/tylerdurden223/papi/main/Forge", -- Forge
   [129009554587176] = "https://raw.githubusercontent.com/tylerdurden223/papi/main/Forge", -- Forge
+  [128001665358186] = "https://raw.githubusercontent.com/tylerdurden223/papi/main/ScaryShawarmaKiosk", -- ScaryShawarmaKiosk
 }
