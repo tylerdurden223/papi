@@ -16,4 +16,5 @@ getgenv().Games = {
   [131884594917121] = "https://raw.githubusercontent.com/tylerdurden223/papi/main/Forge", -- Forge island 3
   [128001665358186] = "https://raw.githubusercontent.com/tylerdurden223/papi/main/ScaryShawarmaKiosk", -- ScaryShawarmaKiosk
   [131623223084840] = "https://raw.githubusercontent.com/tylerdurden223/papi/main/EscapeTsunamiForBrainrots", -- Escape Tsunami For Brainrots
+  [124311897657957] = "https://raw.githubusercontent.com/tylerdurden223/papi/main/BreakaLuckyBlock", -- Break a Lucky Block
 }
