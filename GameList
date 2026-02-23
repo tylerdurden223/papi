@@ -19,4 +19,5 @@ getgenv().Games = {
   [124311897657957] = "https://raw.githubusercontent.com/tylerdurden223/papi/main/BreakaLuckyBlock", -- Break a Lucky Block
   [119579217517090] = "https://raw.githubusercontent.com/tylerdurden223/papi/main/EscapeWavesForLuckyBlocks", -- Escape Waves For Lucky Blocks
   [119987266683883] = "https://raw.githubusercontent.com/tylerdurden223/papi/main/SurviveLAVAforBrainrots", -- Survive LAVA for Brainrots
+  [130594398886540] = "https://raw.githubusercontent.com/tylerdurden223/papi/main/GardenHorizons", -- Garden Horizons
 }
