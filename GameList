@@ -21,4 +21,5 @@ getgenv().Games = {
   [119987266683883] = "https://raw.githubusercontent.com/tylerdurden223/papi/main/SurviveLAVAforBrainrots", -- Survive LAVA for Brainrots
   [130594398886540] = "https://raw.githubusercontent.com/tylerdurden223/papi/main/GardenHorizons", -- Garden Horizons
   [114640202062357] = "https://raw.githubusercontent.com/tylerdurden223/papi/main/SwingObbyForBrainrots", -- Swing Obby for Brainrots
+  [124473577469410] = "https://raw.githubusercontent.com/tylerdurden223/papi/main/BeALuckyBlock", -- Be A Lucky Block
 }
