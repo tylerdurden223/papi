@@ -25,4 +25,5 @@ getgenv().Games = {
   [114640202062357] = "https://raw.githubusercontent.com/tylerdurden223/papi/main/SwingObbyForBrainrots", -- Swing Obby for Brainrots
   [124473577469410] = "https://raw.githubusercontent.com/tylerdurden223/papi/main/BeALuckyBlock", -- Be A Lucky Block
   [89469502395769] = "https://raw.githubusercontent.com/tylerdurden223/papi/main/KickALuckyBlock", -- Kick A Lucky Block
+  [92416421522960] = "https://raw.githubusercontent.com/tylerdurden223/papi/main/SlimeRng", -- SlimRng
 }
