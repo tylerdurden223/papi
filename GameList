@@ -29,4 +29,4 @@ getgenv().Games = {
   [114204398207377] = "https://raw.githubusercontent.com/tylerdurden223/papi/main/SurviveZombieArena", -- SurviveZombieArenaLobby
   [98927955463992] = "https://raw.githubusercontent.com/tylerdurden223/papi/main/SurviveZombieArena", -- SurviveZombieArenaGame
   [107646426076756] = "https://raw.githubusercontent.com/tylerdurden223/papi/main/BuildARingFarm", -- Build A Ring Farm
-}
+  [97598239454123] = "https://raw.githubusercontent.com/tylerdurden223/papi/main/GrowAGarden2", -- Grow A Garden 2
