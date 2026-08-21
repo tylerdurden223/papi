@@ -31,4 +31,5 @@ getgenv().Games = {
   [107646426076756] = "https://raw.githubusercontent.com/tylerdurden223/papi/main/BuildARingFarm", -- Build A Ring Farm
   [97598239454123] = "https://raw.githubusercontent.com/tylerdurden223/papi/main/GrowAGarden2", -- Grow A Garden 2
   [114697347887839] = "https://raw.githubusercontent.com/tylerdurden223/papi/main/%2B1SpeedMonkeyEscape", -- +1 Speed Monkey Escape
+  [107778070777162] = "https://raw.githubusercontent.com/tylerdurden223/papi/main/StealAnEgg", -- Steal An Egg
 }
